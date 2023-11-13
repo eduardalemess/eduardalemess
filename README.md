@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @eduardalemess
-- 👀 I’m interested in indie music, adventure movies and books
 - 🌱 I’m currently learning full stack developer
 
 <!---
